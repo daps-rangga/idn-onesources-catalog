@@ -20,5 +20,6 @@ This document covers 4 types of data assets:
 .. toctree::
    :hidden:
    :caption: Data Assets
+   
    usage
    api
