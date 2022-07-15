@@ -8,9 +8,13 @@ The purpose of this Data Catalog is to help members of the Danone organization t
    We are actively developing and producing new data assets. Please bookmark this page and check back often :)
 
 This document covers 4 types of data assets:
+
 * **Dataset**:
+
 * **Flash Report**:
+
 * **Dashboard**:
+
 * **Analysis/Insight Report**:
 
 .. toctree::
